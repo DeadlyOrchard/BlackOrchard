@@ -1,2 +1,2 @@
 # BlackOrchard
-The website for my portfolio
+A static website for my portfolio
