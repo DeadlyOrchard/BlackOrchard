@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 64px 24%;
+}
+
+header {
+    padding: 8px 32px;
+
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    position: absolute;
+    left: 20px;
+    top: 180px;
+    width: calc(24% - 40px);
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+main {
+    margin: 32px 0;
+    padding: 36px 0;
+}
+
+article {
+    padding: 0;
+    margin: 0 64px;
+}
+
+article h1 {
+    margin: 0 0 -10px 0;
+}
