@@ -52,18 +52,18 @@ article a {
 
 @font-face {
     font-family: ubuntu;
-    src: url("./ubuntu-font-family-0.80/Ubuntu-L.ttf");
+    src: url("./fonts/Ubuntu-L.ttf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: ubuntu;
-    src: url("./ubuntu-font-family-0.80/Ubuntu-M.ttf");
+    src: url("./fonts/Ubuntu-M.ttf");
     font-weight: bold;
 }
 
 @font-face {
     font-family: ubuntu;
-    src: url("./ubuntu-font-family-0.80/Ubuntu-LI.ttf");
+    src: url("./fonts/Ubuntu-LI.ttf");
     font-style: italic;
 }
