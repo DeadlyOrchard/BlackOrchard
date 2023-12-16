@@ -24,9 +24,11 @@ nav ul li {
 }
 
 nav ul li:hover {
-    color: #99e;
-    outline: 1px solid #99e;
-    box-shadow: 0px 0px 4px 2px #99e; 
+    color: #aaf;
+    font-weight: bold;
+    background-color: #744;
+    outline: 1px solid #aaf;
+    box-shadow: 0px 0px 4px 2px #aaf; 
     cursor: pointer;
 }
 
